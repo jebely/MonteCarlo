@@ -19,7 +19,7 @@ from matplotlib import style
 
 style.use('ggplot')
 
-# Start and End dates for the simulation
+# Start and End dates for the data
 start = dt.datetime(2019, 7, 18)
 end = dt.datetime(2020, 7, 18)
 
